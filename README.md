@@ -27,8 +27,8 @@ It is assumed that there will always be a safe path that the agent can take to e
 <h1>Program:</h1>
 
 ```python
-DEVELOPED BY: KULASEKARAPANDIAN K
-REGISTER NO: 212222240052
+DEVELOPED BY: KISHORE N
+REGISTER NO: 212222240049
 ```
 
 ```python
